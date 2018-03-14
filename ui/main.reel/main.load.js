@@ -1,0 +1,1 @@
+montageDefine("e852467","ui/main.reel/main",{dependencies:["montage/ui/component","../../assets/data/demos.json"],factory:function(e,n,o){var t=e("montage/ui/component").Component,a=e("../../assets/data/demos.json");n.Main=t.specialize({constructor:{value:function(){this["super"]()}},demos:{value:null},enterDocument:{value:function(e){var n=this;n.demos=a}}})}});
