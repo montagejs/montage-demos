@@ -7,7 +7,7 @@
 			"source": "../../assets/data/screenshot/montage-wordpress.png"
 		},
 		"content": {
-			"rendered": "<iframe src='http://montagejs.github.io/montage-wordpress/'></iframe>"
+			"rendered": "<iframe src='https://montagejs.github.io/montage-wordpress/'></iframe>"
 		}
 	},
 	{
@@ -18,7 +18,7 @@
 			"source": "../../assets/data/screenshot/popcorn.png"
 		},
 		"content": {
-			"rendered": "<iframe src='http://montagejs.github.io/popcorn/'></iframe>"
+			"rendered": "<iframe src='https://montagejs.github.io/popcorn/'></iframe>"
 		}
 	},
 	{
@@ -29,7 +29,7 @@
 			"source": "../../assets/data/screenshot/beachplanetblog.png"
 		},
 		"content": {
-			"rendered": "<iframe src='http://montagejs.github.io/beachplanetblog/'></iframe>"
+			"rendered": "<iframe src='https://montagejs.github.io/beachplanetblog/'></iframe>"
 		}
 	},
 	{
@@ -40,7 +40,7 @@
 			"source": "../../assets/data/screenshot/calculator.png"
 		},
 		"content": {
-			"rendered": "<iframe src='http://montagejs.github.io/calculator/'></iframe>"
+			"rendered": "<iframe src='https://montagejs.github.io/calculator/'></iframe>"
 		}
 	},
 	{
@@ -51,7 +51,7 @@
 			"source": "../../assets/data/screenshot/todo-mvc.png"
 		},
 		"content": {
-			"rendered": "<iframe src='http://montagejs.github.io/todo-mvc/'></iframe>"
+			"rendered": "<iframe src='https://montagejs.github.io/todo-mvc/'></iframe>"
 		}
 	},
 	{
@@ -59,10 +59,10 @@
 			"rendered": "ecohomes"
 		},
 		"featured_image": {
-			"source": "../../assets/data/screenshot/montage-wordpress.png"
+			"source": "../../assets/data/screenshot/ecohomes.png"
 		},
 		"content": {
-			"rendered": "<iframe src='http://montagestudio.github.io/ecohomes/'></iframe>"
+			"rendered": "<iframe src='https://montagestudio.github.io/ecohomes/'></iframe>"
 		}
 	},
 	{
@@ -73,7 +73,7 @@
 			"source": "../../assets/data/screenshot/temp-converter.png"
 		},
 		"content": {
-			"rendered": "<iframe src='http://montagejs.github.io/temp-converter/'></iframe>"
+			"rendered": "<iframe src='https://montagejs.github.io/temp-converter/'></iframe>"
 		}
 	},
 	{
