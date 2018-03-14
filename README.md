@@ -2,7 +2,7 @@
 
 ![Screenshot](assets/images/screenshot.png)
 
-[Live Demo](http://montagestudio.github.io/wordpress-blog-flow/)
+[Live Demo](http://montagejs.github.io/montage-demos/)
 
 ### Quick Start
 
