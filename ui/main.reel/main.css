@@ -2,6 +2,29 @@
     height: 100%;
 }
 
+
+.MontageMade {
+    position: absolute;
+    top: 0;
+    right: 150px;
+    width: 50px;
+    height: 100px;
+    overflow: hidden;
+    font-size: 0;
+    color: transparent;
+    background: url(../../assets/images/montage-made.svg) no-repeat center;
+    background-size: 100% auto;
+    z-index: 200;
+}
+
+.MontageMade:hover {
+    opacity: .9;
+}
+
+.MontageMade:active {
+    top: 2px;
+}
+
 /* Flow ---------------------------------------- */
 
 .Flow {

@@ -60,6 +60,16 @@ The contents of the application are structured into the following directories an
 * package.json — Describes your app and its dependencies.
 * README.md — Provides information about the demo application and how to install it.
 
+# Demos Links
+
+- http://montagejs.github.io/calculator/
+- http://montagejs.github.io/beachplanetblog/
+- http://montagejs.github.io/popcorn/
+- http://montagejs.github.io/montage-wordpress/
+- http://montagejs.github.io/temp-converter/
+- http://montagestudio.github.io/ecohomes/
+- http://montagejs.github.io/todo-mvc/
+
 ## Credit
 
 This demo application was created by the [MontageJS team](http://montagejs.org).
